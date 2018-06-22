@@ -1,4 +1,4 @@
-# SIT CS561 assignment 2
+# SIT CS561 Programming Assignment 2
 
 ### Generate reports based on the following queries:
 1. For each customer and product, compute (1) the customer's average sale of this product, (2) the customer’s average sale of the other products (3) the average sale of the product for the other customers and.
